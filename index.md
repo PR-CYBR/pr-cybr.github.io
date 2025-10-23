@@ -23,3 +23,13 @@ PR‑CYBR (Puerto Rico Cyber Resilience Initiative) is dedicated to building dig
 
 - [GitHub](https://github.com/PR-CYBR)  
 - [PR‑CYBR Website](https://pr-cybr.org)
+
+## Agents  
+
+- [PR-CYBR-BACKEND-AGENT](https://pr-cybr.github.io/PR-CYBR-BACKEND-AGENT/)  
+- [PR-CYBR-DATABASE-AGENT](https://pr-cybr.github.io/PR-CYBR-DATABASE-AGENT/)  
+- [PR-CYBR-DATA-INTEGRATION-AGENT](https://pr-cybr.github.io/PR-CYBR-DATA-INTEGRATION-AGENT/)  
+- [PR-CYBR-MGMT-AGENT](https://pr-cybr.github.io/PR-CYBR-MGMT-AGENT/)  
+- [PR-CYBR-DOCUMENTATION-AGENT](https://pr-cybr.github.io/PR-CYBR-DOCUMENTATION-AGENT/)  
+- [PR-CYBR-SECURITY-AGENT](https://pr-cybr.github.io/PR-CYBR-SECURITY-AGENT/)  
+- [PR-CYBR-FRONTEND-AGENT](https://pr-cybr.github.io/PR-CYBR-FRONTEND-AGENT/)
